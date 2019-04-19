@@ -1,0 +1,7 @@
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\bin\Debug\CShapeAutoTest.exe.config
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\bin\Debug\CShapeAutoTest.exe
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\bin\Debug\CShapeAutoTest.pdb
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\obj\Debug\CShapeAutoTest.csprojAssemblyReference.cache
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\obj\Debug\CShapeAutoTest.csproj.CoreCompileInputs.cache
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\obj\Debug\CShapeAutoTest.exe
+F:\Program\C#\CShapeAutoTest\CShapeAutoTest\obj\Debug\CShapeAutoTest.pdb
